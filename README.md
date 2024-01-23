@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LivhuM
 - 👀 I’m interested in ..programming .
 - 🌱 I’m currently learning ..python .
+- Iam an expert in Java💞️
 - 💞️ I’m looking to collaborate on ..projects .
 - 📫 How to reach me ..mathinthalivhuwani@gmail.com.
 
